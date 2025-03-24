@@ -62,7 +62,7 @@ public class Szak {
         }
     }
 
-   private List<Tantargy> getTargyakNevSzerint(){
+   public static List<Tantargy> getTargyakNevSzerint(){
         List<Tantargy> tantargyNevek = new ArrayList<>();
         Tantargy t1 = new Tantargy("tanar1", "targy1", "igen", 4, 6);
         Tantargy t2 = new Tantargy("tanar2", "targy2", "nem", 20, 3);

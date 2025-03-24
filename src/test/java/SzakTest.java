@@ -25,4 +25,6 @@ class SzakTest {
         targyak.add(new Tantargy());
         Assertions.assertTrue(eredeti == szak.getTargyak().size());
     }
+
+    //commit miatt
 }

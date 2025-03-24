@@ -14,5 +14,6 @@ public class Main {
     public static void main(String[] args) {
             Szak.szakKiirasa();
             Szak.szakBeolvasasa();
+            Szak.getTargyakNevSzerint();
         }
     }
