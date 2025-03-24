@@ -27,4 +27,6 @@ class SzakTest {
     }
 
     //commit miatt
+
+    // commit miatt
 }

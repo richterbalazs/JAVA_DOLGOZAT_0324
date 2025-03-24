@@ -69,6 +69,10 @@ public class Tantargy implements Comparable<Tantargy> {
         return new nevComporator();
     }
 
+    // commit miatt
+
+    //s
+
     private static class nevComporator implements Comparator<Tantargy> {
         @Override
         public int compare(Tantargy egyik, Tantargy masik) {

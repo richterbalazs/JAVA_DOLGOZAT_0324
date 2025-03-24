@@ -106,4 +106,10 @@ public class Szak {
     public Collection<Object> getTargyak() {
         return getTargyak();
     }
+
+    //commit miatt
+
+    //public Collection<Object> getTargyak() {
+    //        return getTargyak();
+    //    }
 }
